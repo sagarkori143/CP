@@ -1,28 +1,15 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void solve() {
-    int n, k;
-    cin >> n >> k;
-    
-    
-    int min_length = k * (k + 1) / 2 + (k - 1);
-
-    if (n < min_length) {
-        cout << "NO" << endl;
-    } else {
-        cout << "YES" << endl;
-    }
+bool print(string s,int i){
+   if(i>s.length()/2)return true;
+   
 }
 
-int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(NULL);
 
-    int t;
-    cin >> t;
-    while (t--) {
-        solve();
-    }
+int main() {
+    string s="sagar";
+    cout<<print(s,0);
+    
     return 0;
 }

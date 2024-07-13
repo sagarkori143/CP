@@ -169,5 +169,5 @@ int32_t main()
      *   |   (_/                                    \_)   |    *
      *   |                                                |    *
      *   '-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-='    *
-     *     DON'T COPY THIS CODE. JUST READ AND GET LOST        *
+     *     Don't copy this code. Just read it and get lost     *
 */
